@@ -1,0 +1,1 @@
+@import"https://fonts.googleapis.com/css?family=Chathura&display=swap";html{--main-bg-color: #070707;--font: "Chathura", sans-serif}body{font-size:14px;font-family:var(--font)}#wrapper{display:grid;place-items:center;min-height:100vh;background-color:var(--main-bg-color)}#svg-container{width:340px}.inner-container{position:relative}
